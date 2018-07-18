@@ -12,6 +12,10 @@ Welcome to technotes's documentation!
 
    notes/note1
 
+Welcome to this index page.
+I will try to write something interesting here.
+
+
 
 Indices and tables
 ==================
