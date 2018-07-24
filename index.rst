@@ -14,6 +14,8 @@ Welcome to my technotes
 
 For now, I am a SDE & data analyst, concentrating on big data & distributed computation, machine learning, deep learning and data visualization.
 
+My homepage is https://technotes.readthedocs.io/en/latest/
+
 
 Indices and tables
 ==================
